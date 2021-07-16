@@ -7,8 +7,6 @@ a++;
 // Only change code below this line
 
 
-let sumAB = a + b;
-console.log(sumAB);
 
 //2.Understanding the Differences between the freeCodeCamp and Browser Console
 
